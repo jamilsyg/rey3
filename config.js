@@ -9,8 +9,8 @@ global.numberowner = '6289675134806'
 global.instagram = 'https://instagram.com/bangreyy_54'
 global.github = 'https://github.com/jamilsyg'
 global.dana = '089675134806'
-global.pulsa = '08'
-global.gopay = '087892711054'
+global.pulsa = '088226917730'
+global.gopay = '088226917730'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Emilia - Md'
@@ -23,7 +23,7 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = 'EMILIA-𝙼𝙳'
 global.watermark = wm
 global.wm2 = '                     「 EMILIA-MD あ⁩ 」'
 global.wm3 = '⫹⫺ EMILIA-𝙼𝙳'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Riyadh Official'
+global.author = '©Riyadh Official'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
